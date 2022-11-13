@@ -93,7 +93,8 @@ body{
     background-color: black;
 
     overflow: visible !important;
-
+    padding-left: 0px !important;
+    padding-right: 0px !important;
 }
 
 .info{
@@ -139,8 +140,6 @@ body{
     background-color:rgba(0, 0, 0, .2);
 }
 
-
-
 .bmw-sel{
     text-align: center;
     color: black;
@@ -153,41 +152,12 @@ body{
     margin-left: auto;
 }
 
-
-
 .modal:nth-of-type(even) {
     z-index: 1052 !important;
 }
 .modal-backdrop.show:nth-of-type(even) {
     z-index: 1051 !important;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .hover-text-one figure {
 	position: relative;
@@ -215,7 +185,6 @@ body{
 	height: 100%;
 }
 
-
 .hover-text-one figure h4,
 .hover-text-one figure p {
 	margin: 0;
@@ -231,7 +200,6 @@ body{
 .hover-text-one figure h4 {
 	font-size: 95%;
 }
-
 /* Эффект при наведении */
 figure.effect-text-four figcaption {
 	text-align: right;
@@ -250,7 +218,7 @@ figure.effect-text-four p {
 	transform: translate3d(0,100%,0);
 }
 figure.effect-text-four h4 {
-	top: 115px;
+	top: 117px;
     color: black;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
@@ -288,7 +256,7 @@ figure.effect-text-four:hover p {
 }
 
 @media (min-width: 1601px) { 
-    .logo{
+    .logo-asta{
         font-family: 'Inter', sans-serif;
         color: white;
         top: 1.5vw;
@@ -409,7 +377,7 @@ figure.effect-text-four:hover p {
         min-width: 100%;
     }
 
-    .logo{
+    .logo-asta{
         font-size: 4vw;
         left: 19%;
         top: 5vw; 
@@ -490,7 +458,7 @@ figure.effect-text-four:hover p {
         min-width: 100%;
     }
 
-    .logo{
+    .logo-asta{
         font-size: 5.4vw;
         left: 12%;
         top: 6vw;     
