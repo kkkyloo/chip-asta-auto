@@ -67,8 +67,7 @@
 }
 
 .carousel-indicators{
-    padding: 2vw;
-    
+    padding: 2vw; 
 }
 
 .carousel-control-prev-icon {
@@ -142,11 +141,10 @@ body{
 
 .bmw-sel{
     text-align: center;
-    color: black;
-    
+    color: black; 
 }
 
-.title-bmw{
+.title-cars{
     font-family: 'Inter', sans-serif;
     display: block;
     margin-left: auto;
