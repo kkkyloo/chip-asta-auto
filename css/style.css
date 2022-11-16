@@ -150,7 +150,10 @@ body{
     margin-left: auto;
 }
 
+.modal-body{
+        font-family: 'Inter', sans-serif;
 
+}
 
 
 
@@ -537,7 +540,12 @@ figure.effect-text-four:hover p {
     }
 
     .table{
-        font-size: 3.16vw;
+        font-size: 3.05vw;
     }
+    
+
+
+
+    
     
 }
