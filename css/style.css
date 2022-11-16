@@ -150,6 +150,20 @@ body{
     margin-left: auto;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .modal:nth-of-type(even) {
     z-index: 1052 !important;
 }
@@ -520,6 +534,9 @@ figure.effect-text-four:hover p {
         background-position: center;
         top: 0vh;
         min-height: 80vh;
+    }
+    .table{
+        font-size: 3.2vw;
     }
     
 }
