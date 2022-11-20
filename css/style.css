@@ -52,7 +52,7 @@
     line-height: 4vw;
     font-size: 3.24vw;
     text-align: left;
-    top: 5vw;
+    top: 4vw;
     left: 4.8vw;
 }
 
@@ -152,7 +152,6 @@ body{
 
 .modal-body{
         font-family: 'Inter', sans-serif;
-
 }
 
 
@@ -310,7 +309,7 @@ figure.effect-text-four:hover p {
         line-height: 4vw;
         font-size: 3.24vw;
         text-align: left;
-        top: 5vw;
+        top: 4vw;
         left: 4.8vw;
     }
 
@@ -540,7 +539,8 @@ figure.effect-text-four:hover p {
     }
 
     .table{
-        font-size: 3.05vw;
+        font-size: 91%;
+ 
     }
     
 
