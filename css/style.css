@@ -124,11 +124,11 @@
     right: 2vw;
 }
 .c-item{
-    min-height: 959px;
     max-width: 100%;
     min-height: 50vw;
     background-size: cover;
     background-repeat: no-repeat;
+    background-repeat: center;
 
 
 }
