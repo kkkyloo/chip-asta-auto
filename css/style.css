@@ -469,11 +469,11 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
    }
     .images-logo{
         display: grid;
-        grid-template-columns: 30vw 30vw;
+        grid-template-columns: 27vw 27vw;
         top: 90vh;
         width: 30vw;
-        max-height: 130vh;
-        left: 17vw;
+        height: auto;
+        left: 20vw;
         
         column-gap: 12vw;
         row-gap: 12vw;
