@@ -231,7 +231,7 @@ body{
     font-size: 80%;
 }
 .hover-text-one figure h4 {
-    font-size: 95%;
+    font-size: 83%;
 }
 /* Эффект при наведении */
 figure.effect-text-four figcaption {
@@ -250,7 +250,7 @@ figure.effect-text-four p {
     transform: translate3d(0,100%,0);
 }
 figure.effect-text-four h4 {
-    top: 117px;
+    top: 69%;
     color: black;
     -webkit-transition: -webkit-transform 0.35s;
     transition: transform 0.35s;
