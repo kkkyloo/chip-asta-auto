@@ -534,10 +534,10 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         font-size: 11.9px;
    }
    .hover-text-one figure p {
-    font-size: 95%;
+    font-size: 100%;
 }
 figure.effect-text-four h4 {
-    top: 69%;
+    top: 70%;
     
 }
 }
