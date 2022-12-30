@@ -447,18 +447,18 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         display: inline;
    }
     .bmw{
-        background-image: url("../images/main-cars/bmw-small.webp") !important;
+        background-image: url("../images/slider_webp/bmw-small.webp") !important;
         background-position: center;
         min-height: 95vh;
    }
     .mers{
-        background-image: url("../images/main-cars/mers-small.webp") !important;
+        background-image: url("../images/slider_webp/mers-small.webp") !important;
         background-position: center;
         min-height: 95vh;
         top: 3.3vh;
    }
     .audi{
-        background-image: url("../images/main-cars/audi-small.webp") !important;
+        background-image: url("../images/slider_webp/audi-small.webp") !important;
         background-position: center;
         min-height: 95vh;
         top: 0vh;
@@ -514,18 +514,18 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         display: none;
    }
     .bmw{
-        background-image: url("../images/main-cars/bmw-small.webp") !important;
+        background-image: url("../images/slider_webp/bmw-small.webp") !important;
         background-position: center;
         min-height: 80vh;
    }
     .mers{
-        background-image: url("../images/main-cars/mers-small.webp") !important;
+        background-image: url("../images/slider_webp/mers-small.webp") !important;
         background-position: center;
         top: 3vh;
         min-height: 80vh;
    }
     .audi{
-        background-image: url("../images/main-cars/audi-small.webp") !important;
+        background-image: url("../images/slider_webp/audi-small.webp") !important;
         background-position: center;
         top: 0vh;
         min-height: 80vh;
