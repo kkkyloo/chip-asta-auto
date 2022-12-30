@@ -1,4 +1,4 @@
-#preloder {
+/* #preloder {
     position: fixed;
     width: 100%;
     height: 100%;
@@ -55,7 +55,7 @@
         border: 4px solid white;
         border-left-color: transparent;
    }
-}
+} */
 .logo-asta{
     color: white;
     top: 1.5vw;
@@ -142,7 +142,7 @@ body{
     font-style: normal;
     font-weight: 800;
     font-display: swap;
-    src: url("../font/Inter_ExtraBold.ttf") format("woff2");
+    src: url("../font/Inter-ExtraBold.woff2") format("woff2");
 }
 head{
     font-family: 'Inter';
