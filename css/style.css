@@ -1,6 +1,6 @@
 .logo-asta{
     color: white;
-    top: 1.5vw;
+    top: 1.8vw;
     position: absolute;
     z-index: 99;
     left: 4.8vw;
@@ -8,7 +8,7 @@
 }
 .logo-city{
     color: white;
-    top: 4vw;
+    top: 4.3vw;
     position: absolute;
     z-index: 99;
     left: 26.8vw;
@@ -20,7 +20,7 @@
     height: auto;
     position: absolute;
     z-index: 99;
-    top: 1.49vw;
+    top: 1.55vw;
     right: 5vw;
     -moz-user-select: none;
     -webkit-user-select: none;
@@ -169,10 +169,10 @@ head{
     text-align: center;
 }
 .hover-text-one figure p {
-    font-size: 80%;
+    font-size: 75%;
 }
 .hover-text-one figure h4 {
-    font-size: 83%;
+    font-size: 81%;
 }
 /* Эффект при наведении */
 figure.effect-text-four figcaption {
@@ -185,7 +185,7 @@ figure.effect-text-four h4, figure.effect-text-four p {
     padding: 4px 0;
 }
 figure.effect-text-four p {
-    bottom: 9%;
+    bottom: 11%;
     line-height: 1.42;
     -webkit-transform: translate3d(0,100%,0);
     transform: translate3d(0,100%,0);
@@ -226,7 +226,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
 @media (min-width: 1601px) {
     .logo-asta{
         color: white;
-        top: 1.5vw;
+        top: 1.8vw;
         position: absolute;
         z-index: 99;
         left: 4.8vw;
@@ -234,7 +234,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
    }
     .logo-city{
         color: white;
-        top: 4vw;
+        top: 4.3vw;
         position: absolute;
         z-index: 99;
         left: 26.8vw;
@@ -245,7 +245,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         height: auto;
         position: absolute;
         z-index: 99;
-        top: 1.49vw;
+        top: 1.55vw;
         right: 5vw;
         -moz-user-select: none;
         -webkit-user-select: none;
@@ -300,10 +300,10 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         top: 90%;
    }
     .hover-text-one figure h4 {
-        font-size: 70%;
+        font-size: 62%;
    }
     figure.effect-text-four h4 {
-        top: 58%;
+        top: 60%;
    }
     .table{
         font-size: 11.9px;
