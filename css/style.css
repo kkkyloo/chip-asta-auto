@@ -11,9 +11,8 @@
     top: 4.3vw;
     position: absolute;
     z-index: 99;
-    left: 26.8vw;
-    font-size: 0.63vw;
-    
+    left: 26.25vw;
+    font-size: 0.69vw;
 }
 .images-logo{
     width: 59%;
@@ -237,8 +236,8 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         top: 4.3vw;
         position: absolute;
         z-index: 99;
-        left: 26.8vw;
-        font-size: 0.63vw;
+        left: 26.25vw;
+        font-size: 0.69vw;
    }
     .images-logo{
         width: 59%;
@@ -314,6 +313,151 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         background-position: center;
    }
 }
+
+/* @media (max-width: 900px) {
+    .col, [class*="col-"] {
+        padding-right: 7px;
+        padding-left: 7px;
+   }
+    .carousel-indicators{
+        top: 90%;
+   }
+    .hover-text-one figure h4 {
+        font-size: 62%;
+   }
+    figure.effect-text-four h4 {
+        top: 60%;
+   }
+    .table{
+        font-size: 11.9px;
+   }
+    .c-item{
+        background-size: cover;
+        min-height: 100vh;
+        background-position: center;
+   }
+   .images-logo{
+    width: 92%;
+    height: auto;
+    position: absolute;
+    z-index: 99;
+    top: 10.55vw;
+    right: 5vw;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.logo-asta{
+    color: white;
+    top: 1.8vw;
+    position: absolute;
+    z-index: 99;
+    left: 4.8vw;
+    font-size: 4.06vw;
+}
+.logo-city{
+    color: white;
+    top: 4.3vw;
+    position: absolute;
+    z-index: 99;
+    left: 26.25vw;
+    font-size: 0.69vw;
+}
+
+
+
+
+
+
+
+
+
+}
+ */
+
+@media (max-width: 900px) {
+    .bmw{
+        background-image: url("../images/slider_webp/bmw-small.webp") !important;
+        background-position: center;
+        min-height: 99vh;
+    }
+    .mers{
+        background-image: url("../images/slider_webp/mers-small.webp") !important;
+        background-position: center;
+        top: 3vh;
+        min-height: 99vh;
+    }
+    .audi{
+        background-image: url("../images/slider_webp/audi-small.webp") !important;
+        background-position: center;
+        top: 0vh;
+        min-height: 99vh;
+    }
+   .carousel-control-prev-icon {
+        display: none;
+    }
+    .carousel-control-next-icon {
+        display: none;
+    }
+    .carousel-indicators{
+        display: none;
+    }
+    .caption{
+        font-size: 6vw;
+        line-height: 9vw;
+        top: 17vw;
+        text-align: center;
+        left: 0px;
+        min-width: 100%;
+    }
+   .images-logo{
+        display: grid;
+        grid-template-columns: 25vw 25vw;
+        top: 99vh;
+        width: 30vw;
+        height: auto;
+        left: 21vw;
+        column-gap: 12vw;
+        row-gap: 12vw;
+    }
+    .logo-asta{
+        color: white;
+        top: 6vw;
+        position: absolute;
+        z-index: 99;
+        left: 21vw;
+        font-size: 4.06vw;
+    }
+    .logo-city{
+        color: white;
+        top: 11vw;
+        position: absolute;
+        z-index: 99;
+        left: 57vw;
+        font-size: 2vw;
+    }
+    .c-item{
+        max-width: 100%;
+        min-height: 120vw;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+
+    }
+    .info{
+        color: white;
+        text-align: center;
+        font-size: 9vw;
+        padding-top: 1vw;
+        display: inline;
+   }
+
+}
+
+
+
+
 @media (max-width: 760px) and (min-height: 500px){
     .caption{
         font-size: 6vw;
@@ -385,9 +529,9 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         top: 6vw;
    }
     .logo-city{
-        font-size: 2.2vw;
-        left: 64.1%;
-        top: 12.4vw;
+        font-size: 2.5vw;
+        left: 61.44%;
+        top: 12.8vw;
    }
     .images-logo{
         display: grid;
