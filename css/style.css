@@ -651,7 +651,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     .images-logo{
         display: grid;
         grid-template-columns: 22vw 22vw;
-        top: 107vh;
+        top: 115vh;
         width: 30vw;
         height: auto;
         left: 22vw;
@@ -698,7 +698,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         font-size: 82%;
    }
 }
-@media (max-width: 1380px) and (min-width: 1000px){
+@media (max-width: 1380px) and (min-height: 1000px){
     .col, [class*="col-"] {
         padding-right: 7px;
         padding-left: 7px;
