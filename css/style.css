@@ -321,28 +321,28 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         background-image: url("../images/slider_webp/bmw-small.webp") !important;
         background-position: center;
         min-height: 99vh;
-    }
+   }
     .mers{
         background-image: url("../images/slider_webp/mers-small.webp") !important;
         background-position: center;
         top: 3vh;
         min-height: 99vh;
-    }
+   }
     .audi{
         background-image: url("../images/slider_webp/audi-small.webp") !important;
         background-position: center;
         top: 0vh;
         min-height: 99vh;
-    }
-   .carousel-control-prev-icon {
+   }
+    .carousel-control-prev-icon {
         display: none;
-    }
+   }
     .carousel-control-next-icon {
         display: none;
-    }
+   }
     .carousel-indicators{
         display: none;
-    }
+   }
     .caption{
         font-size: 6vw;
         line-height: 9vw;
@@ -350,8 +350,8 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         text-align: center;
         left: 0px;
         min-width: 100%;
-    }
-   .images-logo{
+   }
+    .images-logo{
         display: grid;
         grid-template-columns: 24vw 24vw;
         top: 99vh;
@@ -360,7 +360,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         left: 22vw;
         column-gap: 12vw;
         row-gap: 12vw;
-    }
+   }
     .logo-asta{
         color: white;
         top: 6vw;
@@ -368,7 +368,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         z-index: 99;
         left: 21vw;
         font-size: 4.06vw;
-    }
+   }
     .logo-city{
         color: white;
         top: 11vw;
@@ -376,15 +376,14 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         z-index: 99;
         left: 57vw;
         font-size: 2vw;
-    }
+   }
     .c-item{
         max-width: 100%;
         min-height: 120vw;
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
-
-    }
+   }
     .info{
         color: white;
         text-align: center;
@@ -392,22 +391,20 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         padding-top: 1vw;
         display: inline;
    }
-   .hover-text-one figure p {
-    font-size: 100%;
-}
+    .hover-text-one figure p {
+        font-size: 100%;
+   }
     figure.effect-text-four h4 {
         top: 70%;
-    }  
+   }
     .hover-text-one figure h4 {
         font-size: 82%;
-    } 
+   }
 }
 @media (max-width: 1000px){
-
     figure.effect-text-four h4 {
         top: 70%;
-    }  
- 
+   }
 }
 @media (max-width: 760px) and (min-height: 500px){
     .caption{
@@ -611,5 +608,111 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
 @media (max-width: 800px) and (max-height: 450px){
     figure.effect-text-four h4 {
         top: 60%;
+   }
+}
+@media (max-width: 1040px) and (min-height: 1200px){
+    .table{
+        font-size: 19px;
+   }
+    .bmw{
+        background-image: url("../images/slider_webp/bmw-small.webp") !important;
+        background-position: center;
+        min-height: 99vh;
+   }
+    .mers{
+        background-image: url("../images/slider_webp/mers-small.webp") !important;
+        background-position: center;
+        top: 3vh;
+        min-height: 99vh;
+   }
+    .audi{
+        background-image: url("../images/slider_webp/audi-small.webp") !important;
+        background-position: center;
+        top: 0vh;
+        min-height: 99vh;
+   }
+    .carousel-control-prev-icon {
+        display: none;
+   }
+    .carousel-control-next-icon {
+        display: none;
+   }
+    .carousel-indicators{
+        display: none;
+   }
+    .caption{
+        font-size: 6vw;
+        line-height: 9vw;
+        top: 17vw;
+        text-align: center;
+        left: 0px;
+        min-width: 100%;
+   }
+    .images-logo{
+        display: grid;
+        grid-template-columns: 22vw 22vw;
+        top: 107vh;
+        width: 30vw;
+        height: auto;
+        left: 22vw;
+        column-gap: 12vw;
+        row-gap: 12vw;
+   }
+    .logo-asta{
+        color: white;
+        top: 6vw;
+        position: absolute;
+        z-index: 99;
+        left: 21vw;
+        font-size: 4.06vw;
+   }
+    .logo-city{
+        color: white;
+        top: 11vw;
+        position: absolute;
+        z-index: 99;
+        left: 57vw;
+        font-size: 2vw;
+   }
+    .c-item{
+        max-width: 100%;
+        min-height: 120vw;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+   }
+    .info{
+        color: white;
+        text-align: center;
+        font-size: 7vw;
+        padding-top: 2vw;
+        display: inline;
+   }
+    .hover-text-one figure p {
+        font-size: 100%;
+   }
+    figure.effect-text-four h4 {
+        top: 70%;
+   }
+    .hover-text-one figure h4 {
+        font-size: 82%;
+   }
+}
+@media (max-width: 1380px) and (min-width: 1000px){
+    .col, [class*="col-"] {
+        padding-right: 7px;
+        padding-left: 7px;
+   }
+    .carousel-indicators{
+        top: 90%;
+   }
+
+    .table{
+        font-size: 18px;
+   }
+    .c-item{
+        background-size: cover;
+        min-height: 100vh;
+        background-position: center;
    }
 }
