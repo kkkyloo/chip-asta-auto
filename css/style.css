@@ -277,9 +277,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
 @media (max-width: 1601px) {
     .carousel-indicators{
         padding: 3vw;
-        
    }
-   
 }
 @media (max-width: 1366px) {
     .caption{
@@ -291,11 +289,11 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     .carousel-indicators{
         padding: 1.7vw;
    }
-   .c-item{
-    background-size: cover;
-    min-height: 100vh;
-    background-position: center;
-}
+    .c-item{
+        background-size: cover;
+        min-height: 100vh;
+        background-position: center;
+   }
 }
 @media (max-width: 1290px) {
     .col, [class*="col-"] {
@@ -412,13 +410,11 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     figure.effect-text-four h4 {
         top: 70%;
    }
-   
 }
 @media (max-width: 1070px) and (max-height: 500px){
     .carousel-indicators{
         display: none;
    }
-   
 }
 @media (max-width: 760px) and (min-height: 500px){
     .c-item{
@@ -480,7 +476,6 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     .mers-c{
         top: 18vw;
    }
-   
 }
 @media (max-width: 575px) and (min-height: 500px){
     .c-item{
@@ -736,14 +731,17 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     .carousel-indicators{
         top: 90%;
    }
-
     .table{
-        font-size: 18px;
+        font-size: 15px;
    }
     .c-item{
         background-size: cover;
         min-height: 100vh;
         background-position: center;
+   }
+    figure.effect-text-four h4 {
+        top: 70%;
+        font-size: 14px;
    }
 }
 @media (max-width: 360px) and (max-height: 500px){
@@ -826,14 +824,12 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     figure.effect-text-four h4 {
         top: 70%;
    }
-   
 }
 @media (max-width: 1070px) and (min-height: 590px){
     figure.effect-text-four h4 {
         top: 70%;
    }
-   .table{
-    font-size: 13.9px;
-
+    .table{
+        font-size: 13.9px;
    }
 }
