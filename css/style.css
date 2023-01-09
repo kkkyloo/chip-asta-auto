@@ -413,11 +413,10 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     .hover-text-one figure h4 {
         font-size: 82%;
    }
-   .chip_info{
-    margin-top: 160vh !important;
-    font-size: 5vw;
+    .chip_info{
+        margin-top: 160vh !important;
+        font-size: 5vw;
    }
-   
 }
 @media (max-width: 1000px){
     figure.effect-text-four h4 {
@@ -433,7 +432,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     .chip_info{
         margin-top: 105vh !important;
         font-size: 5vw;
-       }
+   }
     .c-item{
         background-size: cover;
         min-height: 80vh !important;
@@ -498,7 +497,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     .chip_info{
         margin-top: 120vh !important;
         font-size: 5vw;
-       }
+   }
     .c-item{
         background-size: cover;
         min-height: 80vh !important;
@@ -579,7 +578,7 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     .chip_info{
         margin-top: 145vh !important;
         font-size: 5vw;
-       }
+   }
     .c-item{
         background-size: cover;
         min-height: 80vh !important;
@@ -664,10 +663,10 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     .chip_info{
         margin-top: 160vh !important;
         font-size: 5vw;
-       }
+   }
     .footer{
         font-size: 3vw;
-    }
+   }
     .table{
         font-size: 19px;
    }
@@ -872,4 +871,3 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         font-size: 13.9px;
    }
 }
-
