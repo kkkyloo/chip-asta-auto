@@ -230,6 +230,12 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
 }
+@media (min-width: 2100px) {
+    .footer{
+        font-size: 1vw;
+   }
+}
+
 @media (min-width: 1601px) {
     .logo-asta{
         color: white;
