@@ -21,9 +21,6 @@
     z-index: 99;
     top: 1.55vw;
     right: 5vw;
-    -moz-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
     user-select: none;
 }
 .img-fluid {
@@ -71,6 +68,10 @@
     background-repeat: no-repeat;
 }
 body{
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;    
     background-color: black;
     font-family: 'Inter', sans-serif !important;
     /* overflow: visible !important;
@@ -234,7 +235,6 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         font-size: 1vw;
    }
 }
-
 @media (min-width: 1601px) {
     .logo-asta{
         color: white;
@@ -259,9 +259,6 @@ figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
         z-index: 99;
         top: 1.55vw;
         right: 5vw;
-        -moz-user-select: none;
-        -webkit-user-select: none;
-        -ms-user-select: none;
         user-select: none;
    }
     .caption{
