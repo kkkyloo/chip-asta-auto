@@ -73,9 +73,9 @@
 body{
     background-color: black;
     font-family: 'Inter', sans-serif !important;
-    overflow: visible !important;
+    /* overflow: visible !important;
     padding-left: 0px !important;
-    padding-right: 0px !important;
+    padding-right: 0px !important; */
 }
 @font-face {
     font-family: 'Inter';
