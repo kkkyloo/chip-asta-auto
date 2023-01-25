@@ -7,6 +7,13 @@
     z-index: 999999;
     background: #000;
 }
+.no-dur{
+    text-decoration: none;
+    color: white;
+}
+.no-dur:hover{
+    color: rgb(190, 190, 190);
+}
 .loader {
     width: 40px;
     height: 40px;
@@ -92,7 +99,7 @@
     display: block;
 }
 .img-fluid:hover {
-    transform: scale(1.1);
+    transform: scale(1.08);
    /* Увеличиваем масштаб */
 }
 .caption{
