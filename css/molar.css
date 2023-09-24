@@ -1,0 +1,50 @@
+.c-item{
+    max-width: 100%;
+    min-height: 150vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    background-image: url('../images/slider_webp/6.jpg') !important; 
+    background-repeat: no-repeat !important;
+    background-size: 100% 90vw !important;
+}
+
+.c-item{
+    background-position: 10.4vw 37vh;
+    background-size: 40% 30vw;
+}
+.carousel{
+    position: relative;
+    z-index: 1;
+}
+.caption{
+    left: 28.4%;
+    font-size: 3vw;
+    top: 3vw;
+}
+.carousel-control-prev-icon {
+    position: absolute;
+    left: 20vw;
+    margin-top: -84vw;
+}
+.carousel-control-next-icon {
+    position: absolute;
+    right: 51.3vw;
+    margin-top: -84vw;
+}
+.rab{
+    position: absolute;
+    color: white;
+    line-height: 5vw;
+    font-size: 3.7vw;
+    text-align: left;
+    top: 10vw;
+    left: 4.7vw;
+}
+img-comparison-slider{
+    position: absolute;
+    top: 18vw;
+    left: 58vw;
+    z-index: 100;
+}

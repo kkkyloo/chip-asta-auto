@@ -1,0 +1,132 @@
+.nav-text1{
+    position: absolute;
+    z-index: 99;
+    left: 21.7vw;
+    color: white;
+    top: 5vh;
+    font-size: 1.1vw;
+}
+.nav-text2{
+    position: absolute;
+    z-index: 99;
+    left: 32.7vw;
+    color: white;
+    top: 5vh;
+    font-size: 1.1vw;
+}
+.nav-text3{
+    position: absolute;
+    z-index: 99;
+    left: 43.1vw;
+    color: white;
+    top: 5vh;
+    font-size: 1.1vw;
+}
+.nav-text4{
+    position: absolute;
+    z-index: 99;
+    left: 59.6vw;
+    color: white;
+    top: 5vh;
+    font-size: 1.1vw;
+}
+.nav-text5{
+    position: absolute;
+    z-index: 99;
+    left: 76vw;
+    color: white;
+    top: 5vh;
+    font-size: 1.1vw;
+}
+.nav-text6{
+    position: absolute;
+    z-index: 99;
+    left: 89.2vw;
+    color: white;
+    top: 5vh;
+    font-size: 1.1vw;
+}
+.logo-phone{
+    color: white;
+    top: 6.8vw;
+    position: absolute;
+    z-index: 99;
+    left: 4.9vw;
+    font-size: 0.79vw;
+    
+}
+.logo-adress{
+    color: white;
+    top: 5.7vw;
+    position: absolute;
+    z-index: 99;
+    left: 4.9vw;
+    font-size: 0.79vw;
+}
+
+.no-dur{
+    text-decoration: none;
+    color: white;
+}
+.no-dur:hover{
+    color: rgb(190, 190, 190);
+}
+.no-dur2{
+    text-decoration: none;
+    color: white;
+}
+.no-dur2:hover{
+    color: white;
+}
+.under{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+.opis,
+.tel{
+    font-size: 1.2vw;
+}
+.footer{
+    will-change: contents;
+
+}
+/* .navbar-brand{
+    margin: 0px 0px 0px 110px !important;
+} */
+
+.nav-mob{
+    line-height:35px;
+    font-size: 4.7vw;
+    width: 100%;
+
+}
+
+.mob-navbar{
+    display: none !important;
+    
+}
+@media (max-width: 950px) and (min-height: 900px){
+    .header{
+        display: none;
+    }
+    .mob-navbar{
+        display:block !important;
+   
+    }
+}
+@media (max-width: 760px) and (min-height: 500px){
+    .header{
+        display: none;
+    }
+    .mob-navbar{
+        display:block !important;
+   
+    }
+}
