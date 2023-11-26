@@ -1,162 +1,109 @@
-
-input:focus{outline: none;}
-
-
-
-#preloder {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    z-index: 999999;
-    background: #000;
-}
-.loader {
-    width: 40px;
-    height: 40px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -13px;
-    margin-left: -13px;
-    border-radius: 60px;
-    animation: loader 0.8s linear infinite;
-    -webkit-animation: loader 0.8s linear infinite;
-}
-@keyframes loader {
-    0% {
-        -webkit-transform: rotate(0deg);
-        transform: rotate(0deg);
-        border: 4px solid white;
-        border-left-color: transparent;
-   }
-    50% {
-        -webkit-transform: rotate(180deg);
-        transform: rotate(180deg);
-        border: 4px solid white;
-        border-left-color: transparent;
-   }
-    100% {
-        -webkit-transform: rotate(360deg);
-        transform: rotate(360deg);
-        border: 4px solid white;
-        border-left-color: transparent;
-   }
-}
-@-webkit-keyframes loader {
-    0% {
-        -webkit-transform: rotate(0deg);
-        border: 4px solid white;
-        border-left-color: transparent;
-   }
-    50% {
-        -webkit-transform: rotate(180deg);
-        border: 4px solid white;
-        border-left-color: transparent;
-   }
-    100% {
-        -webkit-transform: rotate(360deg);
-        border: 4px solid white;
-        border-left-color: transparent;
-   }
-}
-.logo-asta{
-    color: white;
+.logo-asta {
     top: 1.8vw;
     position: absolute;
     z-index: 99;
     left: 4.8vw;
     font-size: 2.06vw;
 }
-.logo-city{
-    color: white;
-    top: 4.1vw;
+
+.logo-asta2 {
+    top: 1.8vw;
+    position: absolute;
+    z-index: 99;
+    left: 18.8vw;
+    font-size: 2.06vw;
+}
+
+.logo-city {
+    top: 4.2vw;
     position: absolute;
     z-index: 99;
     left: 4.8vw;
     font-size: 1.1vw;
 }
-/* .images-logo{
-    width: 59%;
-    height: auto;
+
+.logo-adress {
+    top: 5.7vw;
     position: absolute;
     z-index: 99;
-    top: 1.55vw;
-    right: 5vw;
-    user-select: none;
-} */
+    left: 4.8vw;
+    font-size: 0.79vw;
+}
+
+.logo-phone {
+    top: 6.8vw;
+    position: absolute;
+    z-index: 99;
+    left: 4.8vw;
+    font-size: 0.79vw;
+}
+
+.images-logo2 {
+    width: 4vw !important;
+    height: auto !important;
+}
+
 .img-fluid {
     display: inline-block;
     overflow: hidden;
-}
-.img-fluid {
-    transition: 0.4s;
+    transition: 0.5s;
     display: block;
 }
-.img-fluid:hover {
-    transform: scale(1.03);
-}
-.caption{
-    line-height: 5vw;
-    font-size: 3.7vw;
-    text-align: left;
-    top: 4vw;
-    left: 4.7vw;
 
+.img-fluid:hover {
+    transform: scale(1.08);
 }
-.carousel-inner{
-    pointer-events: none;
-    -moz-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    text-align: center;
+
+.caption {
+    line-height: 3vw;
+    font-size: 2.6vw;
+    text-align: left;
+    top: 1vw;
+    left: 4.8vw;
 }
-.carousel-indicators{
-    padding: 2vw;
-}
+
 .carousel-control-prev-icon {
     position: absolute;
     left: 2vw;
 }
+
 .carousel-control-next-icon {
     position: absolute;
     right: 2vw;
 }
-.c-item{
+
+.carousel{
+    margin-top: 10vw;
+}
+.c-item {
     max-width: 100%;
-    min-height: 50vw;
+    min-height: 29vw;
     background-size: cover;
     background-repeat: no-repeat;
 }
-body{
-    -moz-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    user-select: none;    
-    background-color: black;
-    font-family: 'Inter', sans-serif !important;
-    /* overflow: visible !important;
-    padding-left: 0px !important;
-    padding-right: 0px !important; */
+
+
+
+body {
+    background-color: #252a2e;
+    font-family: 'Inter', sans-serif;
+    color: white;
     overflow-y: overlay;
-    
 }
+
 @font-face {
     font-family: 'Inter';
-    font-style: normal;
-    font-weight: 800;
     font-display: swap;
-    src: url("../font/Inter-ExtraBold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    src: url("../font/Inter-ExtraBold.woff2");
 }
-head{
-    font-family: 'Inter';
-}
-.info{
+
+.info {
     display: none;
 }
-.bmw::before{
+
+.bmw::before {
     content: '';
     display: block;
     width: 100%;
@@ -166,9 +113,10 @@ head{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color:rgba(0, 0, 0, .1);
+    background-color: rgba(0, 0, 0, .1);
 }
-.mers::before{
+
+.mers::before {
     content: '';
     display: block;
     width: 100%;
@@ -178,9 +126,10 @@ head{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color:rgba(0, 0, 0, .1);
+    background-color: rgba(0, 0, 0, .1);
 }
-.audi::before{
+
+.audi::before {
     content: '';
     display: block;
     width: 100%;
@@ -190,36 +139,226 @@ head{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color:rgba(0, 0, 0, .1);
+    background-color: rgba(0, 0, 0, .1);
 }
-.bmw-sel{
+
+.bmw-sel {
     text-align: center;
     color: black;
 }
-.title-cars{
-    display: block;
-    margin-left: auto;
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
 }
-.chip_info{
-    color: white;
-    margin: 4%;
-    font-size: 1.7vw;
-    z-index: 99 !important;
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
 }
-.text-muted{
+
+.no-dur {
     text-decoration: none;
+    color: white;
 }
+
+.no-dur:hover {
+    color: rgb(190, 190, 190);
+}
+
+.no-dur2 {
+    text-decoration: none;
+    color: white;
+}
+
+.no-dur2:hover {
+    color: white;
+}
+
+.under {
+    text-decoration: underline;
+}
+
+.pulse {
+    position: fixed;
+    text-align: center;
+    right: 3.9vw;
+    top: 80vh;
+    border-radius: 100%;
+    background: #272727;
+    width: 3vw;
+    height: 3vw;
+    z-index: 111;
+}
+
+.pulse::before {
+    content: '';
+    position: absolute;
+    border: 0.1vw solid #EEEAE0;
+    left: -0.5vw;
+    opacity: 0;
+    right: -0.5vw;
+    top: -0.5vw;
+    bottom: -0.5vw;
+    border-radius: 0.5vw;
+    animation: pulse 2.5s linear infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(1.2);
+        opacity: 0;
+    }
+}
+
+.pulse::after,
+.pulse::before {
+    content: '';
+    position: f;
+    border: 0.1vw solid #EEEAE0;
+    left: -0.5vw;
+    opacity: 0;
+    right: -0.5vw;
+    top: -0.5;
+    bottom: -0.5x;
+    border-radius: 50%;
+    animation: pulse 1.5s linear infinite;
+}
+
+.pulse::after {
+    animation-delay: 1.25s;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.5);
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: scale(1.2);
+        opacity: 0;
+    }
+}
+
+.asta_info {
+    font-size: 2vw !important;
+    margin-top: 1vh !important;
+}
+
+.opis_comp {
+    font-size: 2vw !important;
+}
+
+.footer {
+    font-size: 0.9vw;
+}
+
+.contact_tg_img {
+    width: 1.9vw !important;
+    margin-right: 0.1vw !important;
+}
+
+.telegram {
+    font-size: 1.2vw !important;
+}
+
+.contact_up_img {
+    padding-top: 1vw !important;
+}
+
+.nav-mob {
+    line-height: 11vw;
+    font-size: 4.7vw;
+}
+
+.navbar-brand {
+    font-size: 10vw;
+}
+
+.cont {
+    font-size: 2vw !important;
+}
+
+.mess_numb {
+    font-size: 1.4vw !important;
+    margin-top: 1vw !important;
+}
+
+.tel {
+    font-size: 1.1vw !important;
+}
+
+.contact-modal {
+    color: black;
+}
+
+.contact_call_img {
+    width: 1.3vw !important;
+    margin-right: 0.5vw !important;
+}
+
+.nav-asta {
+    font-size: 0.9vw;
+}
+
+.nav-text1 {
+    position: absolute;
+    z-index: 99;
+    left: 40vw;
+    top: 2.6vw;
+}
+
+.nav-text3 {
+    position: absolute;
+    z-index: 99;
+    left: 55.2vw;
+    top: 2.6vw;
+}
+
+.nav-text4 {
+    position: absolute;
+    z-index: 99;
+    left: 73.3vw;
+    top: 2.6vw;
+}
+
+.nav-text5 {
+    position: absolute;
+    z-index: 99;
+    left: 90.3vw;
+    top: 2.6vw;
+}
+
+
+
+
+
 .modal:nth-of-type(even) {
     z-index: 1052 !important;
 }
+
 .modal-backdrop.show:nth-of-type(even) {
     z-index: 1051 !important;
 }
+
 .hover-text-one figure {
     position: relative;
     overflow: hidden;
     cursor: pointer;
 }
+
 .hover-text-one figure figcaption {
     padding: 2em;
     color: #fff;
@@ -228,53 +367,67 @@ head{
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
-.hover-text-one figure figcaption::before, .hover-text-one figure figcaption::after {
+
+.hover-text-one figure figcaption::before,
+.hover-text-one figure figcaption::after {
     pointer-events: none;
 }
-.hover-text-one figure figcaption{
+
+.hover-text-one figure figcaption {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
 }
-.hover-text-one figure h4, .hover-text-one figure p {
+
+.hover-text-one figure h4,
+.hover-text-one figure p {
     margin: 0;
     text-align: center;
 }
+
 .hover-text-one figure p {
     font-size: 75%;
 }
+
 .hover-text-one figure h4 {
     font-size: 81%;
 }
+
 figure.effect-text-four figcaption {
     text-align: right;
 }
-figure.effect-text-four h4, figure.effect-text-four p {
+
+figure.effect-text-four h4,
+figure.effect-text-four p {
     position: absolute;
     right: 0px;
     left: 0px;
     padding: 4px 0;
 }
+
 figure.effect-text-four p {
     bottom: 15%;
     line-height: 1.42;
-    -webkit-transform: translate3d(0,100%,0);
-    transform: translate3d(0,100%,0);
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
 }
+
 figure.effect-text-four h4 {
     top: 69%;
     color: black;
     -webkit-transition: -webkit-transform 0.35s;
     transition: transform 0.35s;
-    -webkit-transform: translate3d(0,20px,0);
-    transform: translate3d(0,20px,0);
+    -webkit-transform: translate3d(0, 20px, 0);
+    transform: translate3d(0, 20px, 0);
 }
+
 figure.effect-text-four:hover h4 {
-    -webkit-transform: translate3d(0,0,0);
-    transform: translate3d(0,0,0);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
 }
+
 figure.effect-text-four h4::after {
     position: absolute;
     top: 100%;
@@ -282,680 +435,21 @@ figure.effect-text-four h4::after {
     width: 100%;
     height: 0%;
     content: '';
-    -webkit-transform: translate3d(0,40px,0);
-    transform: translate3d(0,40px,0);
+    -webkit-transform: translate3d(0, 40px, 0);
+    transform: translate3d(0, 40px, 0);
 }
-figure.effect-text-four h4::after, figure.effect-text-four p {
+
+figure.effect-text-four h4::after,
+figure.effect-text-four p {
     opacity: 0;
     -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
     transition: opacity 0.35s, transform 0.35s;
     background-color: black;
 }
-figure.effect-text-four:hover h4::after, figure.effect-text-four:hover p {
+
+figure.effect-text-four:hover h4::after,
+figure.effect-text-four:hover p {
     opacity: 1;
-    -webkit-transform: translate3d(0,0,0);
-    transform: translate3d(0,0,0);
-}
-
-
-
-@media (min-width: 2100px) {
-    .footer{
-        font-size: 1vw;
-   }
-}
-@media (min-width: 1601px) {
-    .logo-asta{
-        color: white;
-        top: 1.8vw;
-        position: absolute;
-        z-index: 99;
-        left: 4.8vw;
-        font-size: 2.06vw;
-   }
-   .logo-asta{
-    color: white;
-    top: 1.8vw;
-    position: absolute;
-    z-index: 99;
-    left: 4.8vw;
-    font-size: 2.06vw;
-}
-.logo-city{
-    color: white;
-    top: 4.3vw;
-    position: absolute;
-    z-index: 99;
-    left: 4.8vw;
-    font-size: 1.1vw;
-}
-.caption{
-    /* line-height: 4vw;
-    font-size: 3.4vw;
-    text-align: left;
-    top: 7vw;
-    left: 4.8vw; */
-
-    line-height: 5vw;
-    font-size: 3.5vw;
-    text-align: left;
-    top: 7vw;
-    left: 4.7vw;
-}
-    .bmw{
-        background-position: center;
-        min-height: 103.4vh;
-        top: 0vh;
-   }
-    .mers{
-        background-position: center;
-        min-height: 103.4vh;
-        top: 0vh;
-   }
-    .audi{
-        background-position: center;
-        min-height: 103.4vh;
-        top: 0vh;
-   }
-} 
-@media (max-width: 1601px) {
-    .carousel-indicators{
-        padding: 3vw;
-   }
-}
-@media (max-width: 1366px) {
-    .caption{
-        top: 5%;
-   }
-    .images-logo{
-        width: 60vw;
-   }
-    .carousel-indicators{
-        padding: 1.7vw;
-   }
-    .c-item{
-        background-size: cover;
-        min-height: 100vh;
-        background-position: center;
-   }
-}
-@media (max-width: 1290px) {
-    .col, [class*="col-"] {
-        padding-right: 7px;
-        padding-left: 7px;
-   }
-    .carousel-indicators{
-        top: 90%;
-   }
-    .hover-text-one figure h4 {
-        font-size: 62%;
-   }
-    figure.effect-text-four h4 {
-        top: 60%;
-   }
-    .table{
-        font-size: 13px;
-   }
-    .c-item{
-        background-size: cover;
-        min-height: 100vh;
-        background-position: center;
-   }
-}
-@media (max-width: 950px) and (min-height: 900px){
-
-    .bmw{
-        background-image: url("../images/slider_webp/new_bmw.jpg") !important;
-        background-position: center;
-        min-height: 99vh;
-   }
-    .mers{
-        background-image: url("../images/slider_webp/mers-small.webp") !important;
-        background-position: center;
-        top: 3vh;
-        min-height: 99vh;
-   }
-    .audi{
-        background-image: url("../images/slider_webp/audi-small.webp") !important;
-        background-position: center;
-        top: 0vh;
-        min-height: 99vh;
-   }
-    .carousel-control-prev-icon {
-        display: none;
-   }
-    .carousel-control-next-icon {
-        display: none;
-   }
-    .carousel-indicators{
-        display: none;
-   }
-    .caption{
-        font-size: 6vw;
-        line-height: 9vw;
-        top: 17vw;
-        text-align: center;
-        left: 0px;
-        min-width: 100%;
-   }
-    .images-logo{
-        display: grid;
-        grid-template-columns: 24vw 24vw;
-        top: 115vh;
-        width: 30vw;
-        height: auto;
-        left: 22vw;
-        column-gap: 12vw;
-        row-gap: 12vw;
-   }
-    .logo-asta{
-        color: white;
-        top: 6vw;
-        position: absolute;
-        z-index: 99;
-        left: 21vw;
-        font-size: 4.06vw;
-   }
-    .logo-city{
-        color: white;
-        top: 11vw;
-        position: absolute;
-        z-index: 99;
-        left: 57vw;
-        font-size: 2vw;
-   }
-    .c-item{
-        max-width: 100%;
-        min-height: 120vw;
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
-   }
-    .info{
-        color: white;
-        text-align: center;
-        font-size: 9vw;
-        padding-top: 1vw;
-        display: inline;
-   }
-    .hover-text-one figure p {
-        font-size: 100%;
-   }
-    figure.effect-text-four h4 {
-        top: 70%;
-   }
-    .hover-text-one figure h4 {
-        font-size: 82%;
-   }
-    .chip_info{
-        margin-top: 160vh !important;
-        font-size: 5vw;
-   }
-}
-@media (max-width: 1000px){
-    figure.effect-text-four h4 {
-        top: 70%;
-   }
-}
-@media (max-width: 1070px) and (max-height: 500px){
-    .carousel-indicators{
-        display: none;
-   }
-}
-@media (max-width: 760px) and (min-height: 500px){
-    .chip_info{
-        margin-top: 105vh !important;
-        font-size: 5vw;
-   }
-    .c-item{
-        background-size: cover;
-        min-height: 80vh !important;
-        background-position: center;
-   }
-    .caption{
-        font-size: 6vw;
-        line-height: 9vw;
-        top: 14vw;
-        text-align: center;
-        left: 0px;
-        min-width: 100%;
-   }
-    .logo-asta{
-        font-size: 4vw;
-        left: 19%;
-        top: 5vw;
-   }
-    .logo-city{
-        font-size: 1.2vw;
-        left: 60.6%;
-        top: 9.6vw;
-   }
-    .carousel-control-prev-icon {
-        display: none;
-   }
-    .carousel-control-next-icon {
-        display: none;
-   }
-    .carousel-indicators{
-        display: none;
-   }
-    .info{
-        color: white;
-        text-align: center;
-        font-size: 8vw;
-        padding-top: 1vw;
-        display: inline;
-   }
-    .bmw{
-        background-image: url("../images/slider_webp/new_bmw.jpg") !important;
-        background-position: center;
-        min-height: 95vh;
-   }
-    .mers{
-        background-image: url("../images/slider_webp/mers-small.webp") !important;
-        background-position: center;
-        min-height: 95vh;
-        top: 3.3vh;
-   }
-    .audi{
-        background-image: url("../images/slider_webp/audi-small.webp") !important;
-        background-position: center;
-        min-height: 95vh;
-        top: 0vh;
-   }
-    .mers-c{
-        top: 18vw;
-   }
-}
-@media (max-width: 575px) and (min-height: 500px){
-    .chip_info{
-        margin-top: 0vh !important;
-        font-size: 5vw;
-   }
-    .opis_comp{
-        font-size: 8vw;
-        line-height: 11vw;
-    }
-    .tel{
-        font-size: 3.2vw !important;
-    }
-    .mess_numb{
-        margin-top: 13vh !important;
-    }
-    .opis{
-        font-size: 4vw !important;
-    }
-
-    .c-item{
-        background-size: cover;
-        min-height: 90vh !important;
-        background-position: center;
-   }
-    .caption{
-        font-size: 9.3vw;
-        line-height: 11vw;
-        top: 11vw;
-        text-align: center;
-        left: 0vw;
-        min-width: 100%;
-   }
-    .logo-asta{
-        font-size: 5.4vw;
-        left: 12%;
-        top: 6vw;
-   }
-    .logo-city{
-        font-size: 2.5vw;
-        left: 61.44%;
-        top: 12.8vw;
-   }
-    .images-logo{
-        display: grid;
-        grid-template-columns: 27vw 27vw;
-        top: 90vh;
-        width: 30vw;
-        height: auto;
-        left: 20vw;
-        column-gap: 12vw;
-        row-gap: 12vw;
-   }
-    .info{
-        color: white;
-        text-align: center;
-        font-size: 9vw;
-        padding-top: 1vw;
-        display: inline;
-   }
-    .carousel-control-prev-icon {
-        display: none;
-   }
-    .carousel-control-next-icon {
-        display: none;
-   }
-    .carousel-indicators{
-        display: none;
-   }
-    .bmw{
-        background-image: url("../images/slider_webp/new_bmw.jpg") !important;
-        background-position: center;
-        min-height: 80vh;
-   }
-    .mers{
-        background-image: url("../images/slider_webp/mers-small.webp") !important;
-        background-position: center;
-        top: 3vh;
-        min-height: 80vh;
-   }
-    .audi{
-        background-image: url("../images/slider_webp/audi-small.webp") !important;
-        background-position: center;
-        top: 0vh;
-        min-height: 80vh;
-   }
-    .table{
-        font-size: 11.9px !important;
-   }
-    .hover-text-one figure p {
-        font-size: 100%;
-   }
-    figure.effect-text-four h4 {
-        top: 72% !important;
-   }
-}
-@media (max-width: 360px) and (max-height: 600px){
-    .chip_info{
-        margin-top: 145vh !important;
-        font-size: 5vw;
-   }
-    .c-item{
-        background-size: cover;
-        min-height: 80vh !important;
-        background-position: center;
-   }
-    .caption{
-        font-size: 9vw;
-        line-height: 9vw;
-        top: 10vw;
-        text-align: center;
-        left: 0vw;
-   }
-    .logo-asta{
-        font-size: 5.4vw;
-        left: 12%;
-        top: 6vw;
-   }
-    .logo-city{
-        font-size: 2.2vw;
-        left: 64.1%;
-        top: 12.4vw;
-   }
-    .images-logo{
-        display: grid;
-        grid-template-columns: 27vw 27vw;
-        top: 95vh;
-        width: 30vw;
-        height: auto;
-        left: 20vw;
-        column-gap: 12vw;
-        row-gap: 12vw;
-   }
-    .info{
-        color: white;
-        text-align: center;
-        font-size: 9vw;
-        padding-top: 1vw;
-        display: inline;
-   }
-    .carousel-control-prev-icon {
-        display: none;
-   }
-    .carousel-control-next-icon {
-        display: none;
-   }
-    .carousel-indicators{
-        display: none;
-   }
-    .bmw{
-        background-image: url("../images/slider_webp/new_bmw.jpg") !important;
-        background-position: center;
-        min-height: 80vh;
-   }
-    .mers{
-        background-image: url("../images/slider_webp/mers-small.webp") !important;
-        background-position: center;
-        top: 3vh;
-        min-height: 80vh;
-   }
-    .audi{
-        background-image: url("../images/slider_webp/audi-small.webp") !important;
-        background-position: center;
-        top: 0vh;
-        min-height: 80vh;
-   }
-    .table{
-        font-size: 11.9px;
-   }
-    .hover-text-one figure p {
-        font-size: 100%;
-   }
-    figure.effect-text-four h4 {
-        top: 70%;
-   }
-}
-@media (max-width: 800px) and (max-height: 450px){
-    figure.effect-text-four h4 {
-        top: 60%;
-   }
-}
-@media (max-width: 1040px) and (min-height: 1200px){
-    .chip_info{
-        margin-top: 160vh !important;
-        font-size: 5vw;
-   }
-    .footer{
-        font-size: 3vw;
-   }
-    .table{
-        font-size: 19px;
-   }
-    .bmw{
-        background-image: url("../images/slider_webp/new_bmw.jpg") !important;
-        background-position: center;
-        min-height: 99vh;
-   }
-    .mers{
-        background-image: url("../images/slider_webp/mers-small.webp") !important;
-        background-position: center;
-        top: 3vh;
-        min-height: 99vh;
-   }
-    .audi{
-        background-image: url("../images/slider_webp/audi-small.webp") !important;
-        background-position: center;
-        top: 0vh;
-        min-height: 99vh;
-   }
-    .carousel-control-prev-icon {
-        display: none;
-   }
-    .carousel-control-next-icon {
-        display: none;
-   }
-    .carousel-indicators{
-        display: none;
-   }
-    .caption{
-        font-size: 6vw;
-        line-height: 9vw;
-        top: 17vw;
-        text-align: center;
-        left: 0px;
-        min-width: 100%;
-   }
-    .images-logo{
-        display: grid;
-        grid-template-columns: 22vw 22vw;
-        top: 115vh;
-        width: 30vw;
-        height: auto;
-        left: 22vw;
-        column-gap: 12vw;
-        row-gap: 12vw;
-   }
-    .logo-asta{
-        color: white;
-        top: 6vw;
-        position: absolute;
-        z-index: 99;
-        left: 21vw;
-        font-size: 4.06vw;
-   }
-    .logo-city{
-        color: white;
-        top: 11vw;
-        position: absolute;
-        z-index: 99;
-        left: 57vw;
-        font-size: 2vw;
-   }
-    .c-item{
-        max-width: 100%;
-        min-height: 120vw;
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
-   }
-    .info{
-        color: white;
-        text-align: center;
-        font-size: 7vw;
-        padding-top: 2vw;
-        display: inline;
-   }
-    .hover-text-one figure p {
-        font-size: 100%;
-   }
-    figure.effect-text-four h4 {
-        top: 70%;
-   }
-    .hover-text-one figure h4 {
-        font-size: 82%;
-   }
-}
-@media (max-width: 1600px) and (min-height: 500px){
-    .col, [class*="col-"] {
-        padding-right: 7px;
-        padding-left: 7px;
-   }
-    .carousel-indicators{
-        top: 90%;
-   }
-    .table{
-        font-size: 15px;
-   }
-    .c-item{
-        background-size: cover;
-        min-height: 100vh;
-        background-position: center;
-   }
-    figure.effect-text-four h4 {
-        top: 66.8%;
-        font-size: 13.5px;
-   }
-}
-@media (max-width: 360px) and (max-height: 500px){
-    .c-item{
-        background-size: cover;
-        min-height: 80vh !important;
-        background-position: center;
-   }
-    .caption{
-        font-size: 7vw;
-        line-height: 7vw;
-        top: 10vw;
-        text-align: center;
-        left: 15vw;
-   }
-    .logo-asta{
-        font-size: 5.4vw;
-        left: 12%;
-        top: 6vw;
-   }
-    .logo-city{
-        font-size: 2.2vw;
-        left: 64.1%;
-        top: 12.4vw;
-   }
-    .images-logo{
-        display: grid;
-        grid-template-columns: 27vw 27vw;
-        top: 96vh;
-        width: 30vw;
-        height: auto;
-        left: 20vw;
-        column-gap: 12vw;
-        row-gap: 12vw;
-   }
-    .info{
-        color: white;
-        text-align: center;
-        font-size: 8vw;
-        padding-top: 3vw;
-        display: inline;
-   }
-    .carousel-control-prev-icon {
-        display: none;
-   }
-    .carousel-control-next-icon {
-        display: none;
-   }
-    .carousel-indicators{
-        display: none;
-   }
-    .bmw{
-        background-image: url("../images/slider_webp/new_bmw.jpg") !important;
-        background-position: center;
-        min-height: 80vh;
-   }
-    .mers{
-        background-image: url("../images/slider_webp/mers-small.webp") !important;
-        background-position: center;
-        top: 3vh;
-        min-height: 80vh;
-   }
-    .audi{
-        background-image: url("../images/slider_webp/audi-small.webp") !important;
-        background-position: center;
-        top: 0vh;
-        min-height: 80vh;
-   }
-    .table{
-        font-size: 11.9px;
-   }
-    .hover-text-one figure p {
-        font-size: 100%;
-   }
-    figure.effect-text-four h4 {
-        top: 70%;
-   }
-}
-@media (max-width: 1070px) and (min-height: 700px){
-    figure.effect-text-four h4 {
-        top: 70%;
-   }
-}
-@media (max-width: 1200px) and (min-height: 730px){
-    figure.effect-text-four h4 {
-        top: 62%;
-        font-size: 11px;
-   }
-}
-@media (max-width: 1070px) and (min-height: 590px){
-    figure.effect-text-four h4 {
-        top: 64%;
-        font-size: 11px;
-   }
-    .table{
-        font-size: 13.9px;
-   }
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
 }
