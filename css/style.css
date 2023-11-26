@@ -476,7 +476,20 @@ figure.effect-text-four:hover p {
 @media (max-width: 600px),
 (max-width: 900px) and (max-height: 1250px) and (min-width: 700px) and (min-height: 900px),
 (max-width: 1100px) and (min-height: 1280px) and (min-width: 950px) and (max-height: 1400px) {
+    .table {
+        font-size: 16px !important;
+    }
+    .hover-text-one figure p {
+        font-size: 82%;
+    }
 
+    figure.effect-text-four h4 {
+        top: 74%;
+    }
+
+    .hover-text-one figure h4 {
+        font-size: 82%;
+    }
     .images-logo2 {
         width: 18vw !important;
         height: auto !important;
