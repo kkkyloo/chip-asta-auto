@@ -11,7 +11,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwf20_214" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwf20_214" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 1 серия F20 2011-2019" class="lazy" data-src="images/brand_webp/bmw/f20.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>1 серия F20</h4>
@@ -21,7 +21,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw2" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw2" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 2 серия F22 2014-2019" class="lazy" data-src="images/brand_webp/bmw/2-f22.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>2 серия F22</h4>
@@ -31,7 +31,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWF40_237" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWF40_237" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 1 серия F40 2019-н.в." class="lazy" data-src="images/brand_webp/bmw/f40.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>1 серия F40</h4>
@@ -41,7 +41,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBmwF44_735" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBmwF44_735" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 2 серия F44 2019-н.в." class="lazy" data-src="images/brand_webp/bmw/2-f44.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>2 серия F44</h4>
@@ -51,7 +51,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWF46_415" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWF46_415" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 2 серия F45/F46" class="lazy" data-src="images/brand_webp/bmw/2-f45.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>2 серия F45/F46</h4>
@@ -61,7 +61,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwf30_918" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwf30_918" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 3 серия F30 2011-2018" class="lazy" data-src="images/brand_webp/bmw/3-f30.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>3 серия F30</h4>
@@ -71,7 +71,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw3g20_196" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw3g20_196" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 3 серия G20 2018-н.в" class="lazy" data-src="images/brand_webp/bmw/3-g20.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>3 серия G20</h4>
@@ -81,7 +81,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWf32_798" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWf32_798" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 4 серия F32 2013-2017" class="lazy" data-src="images/brand_webp/bmw/4-f32.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>4 серия F32</h4>
@@ -91,7 +91,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwf32restal_160" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwf32restal_160" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 4 серия F32/F33/F36 2017-н.в." class="lazy" data-src="images/brand_webp/bmw/4-f33.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>4 серия F32/F33/F36</h4>
@@ -101,7 +101,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw_5f07" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw_5f07" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 5 серия F07 GT 2009-2016" class="lazy" data-src="images/brand_webp/bmw/5-f07.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>5 серия F07 GT</h4>
@@ -111,7 +111,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-b5erF10_478" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-b5erF10_478" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 5 серия F10 2009-2016" class="lazy" data-src="images/brand_webp/bmw/5-f10.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>5 серия F10</h4>
@@ -121,7 +121,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwg30_777" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwg30_777" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 5 серия G30 2016-н.в." class="lazy" data-src="images/brand_webp/bmw/5-f30.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>5 серия G30</h4>
@@ -131,7 +131,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-b6f13_152" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-b6f13_152" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 6 серия F13 2011-2015" class="lazy" data-src="images/brand_webp/bmw/6-f06.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>6 серия F13</h4>
@@ -141,7 +141,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwf13f12f06rest_460" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwf13f12f06rest_460" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 6 серия F13/F12/F06 2015-2018" class="lazy" data-src="images/brand_webp/bmw/6-f13.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>6 серия F13/F12/F06</h4>
@@ -151,7 +151,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwg32gt_725" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwg32gt_725" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 6 серия G32 GT 2017-н.в." class="lazy" data-src="images/brand_webp/bmw/6-g32.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>6 серия G32 GT</h4>
@@ -161,7 +161,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-b7erF01_698" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-b7erF01_698" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 7 серия F01/02 2008-2015" class="lazy" data-src="images/brand_webp/bmw/7-f02.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>7 серия F01/02</h4>
@@ -171,7 +171,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw7g11g12_488" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw7g11g12_488" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 7 серия G11/G12 2015-н.в." class="lazy" data-src="images/brand_webp/bmw/7-g12.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>7 серия G11/G12</h4>
@@ -181,7 +181,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBmw8G14G15G16_250" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBmw8G14G15G16_250" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw 8 серия G14/G15" class="lazy" data-src="images/brand_webp/bmw/8-g14.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>8 серия G14/G15</h4>
@@ -191,7 +191,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWM2F87_787" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWM2F87_787" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw M2 F87 2018-н.в." class="lazy" data-src="images/brand_webp/bmw/m2f87.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>M2 F87</h4>
@@ -201,7 +201,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwm3f80_312" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwm3f80_312" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw M3 F80" class="lazy" data-src="images/brand_webp/bmw/m3f80.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>M3 F80</h4>
@@ -211,7 +211,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwm4f82_236" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwm4f82_236" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw M4 F82/F83" class="lazy" data-src="images/brand_webp/bmw/m4f83.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>M4 F82/F83</h4>
@@ -221,7 +221,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBmwm5f90_564" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBmwm5f90_564" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw M5 F90" class="lazy" data-src="images/brand_webp/bmw/m5f90.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>M5 F90</h4>
@@ -231,7 +231,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWM8_775" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWM8_775" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw M8 F91/F92/F93" class="lazy" data-src="images/brand_webp/bmw/m8f91.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>M8 F91/F92/F93</h4>
@@ -241,7 +241,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bX1_311" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bX1_311" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X1 E84" class="lazy" data-src="images/brand_webp/bmw/x1e84.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X1 E84</h4>
@@ -251,7 +251,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX1F48_348" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX1F48_348" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X1 F48" class="lazy" data-src="images/brand_webp/bmw/x1f48.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X1 F48</h4>
@@ -261,7 +261,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx2f39_672" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx2f39_672" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X2 F39" class="lazy" data-src="images/brand_webp/bmw/x2f39.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X2 F39</h4>
@@ -271,7 +271,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw_x3f25" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmw_x3f25" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X3 F25" class="lazy" data-src="images/brand_webp/bmw/x3f25.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X3 F25</h4>
@@ -281,7 +281,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX3F25restaling_507" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX3F25restaling_507" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X3 F25 рестайлинг" class="lazy" data-src="images/brand_webp/bmw/x3f25n.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X3 F25 рестайлинг</h4>
@@ -291,7 +291,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx3g01_659" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx3g01_659" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X3 G01" class="lazy" data-src="images/brand_webp/bmw/x3g01.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X3 G01</h4>
@@ -301,7 +301,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx4f26_358" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx4f26_358" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X4 F26" class="lazy" data-src="images/brand_webp/bmw/x4f26.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X4 F26</h4>
@@ -311,7 +311,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx4g02_432" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx4g02_432" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X4 G02" class="lazy" data-src="images/brand_webp/bmw/x4g02.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X4 G02</h4>
@@ -321,7 +321,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX52013_901" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX52013_901" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X5 E70 2010-2013" class="lazy" data-src="images/brand_webp/bmw/x5e70.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X5 E70</h4>
@@ -331,7 +331,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx5f15_308" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx5f15_308" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X5 F15" class="lazy" data-src="images/brand_webp/bmw/x5f15.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X5 F15</h4>
@@ -341,7 +341,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx5g05_417" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx5g05_417" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X5 G05" class="lazy" data-src="images/brand_webp/bmw/x5g05.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X5 G05</h4>
@@ -351,7 +351,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bF85n1_353" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bF85n1_353" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X5 M F85" class="lazy" data-src="images/brand_webp/bmw/x5mf85.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X5 M F85</h4>
@@ -361,7 +361,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX5MF95_165" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX5MF95_165" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X5M F95" class="lazy" data-src="images/brand_webp/bmw/x5mf95.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X5M F95</h4>
@@ -371,7 +371,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bX6_464" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bX6_464" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X6 E71/72 2007-2014" class="lazy" data-src="images/brand_webp/bmw/x6e71.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X6 E71/72</h4>
@@ -381,7 +381,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwF16n1_867" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwF16n1_867" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X6 F16 2014-2019" class="lazy" data-src="images/brand_webp/bmw/x6f16.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X6 F16</h4>
@@ -391,7 +391,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX6G06_317" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX6G06_317" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X6 G06 2019-н.в." class="lazy" data-src="images/brand_webp/bmw/x6g06.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X6 G06</h4>
@@ -401,7 +401,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX6F86n1_194" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX6F86n1_194" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X6M F86" class="lazy" data-src="images/brand_webp/bmw/x6mf86.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X6M F86</h4>
@@ -411,7 +411,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX6MF96_424" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bBMWX6MF96_424" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X6M F96" class="lazy" data-src="images/brand_webp/bmw/x6mf96.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X6M F96</h4>
@@ -421,7 +421,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx7g07_32" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#bmw-bbmwx7g07_32" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="bmw X7 G07" class="lazy" data-src="images/brand_webp/bmw/x7g07.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X7 G07</h4>
@@ -447,7 +447,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-a_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-a_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES A CLASS 2008 - н.в." class="lazy" data-src="images/brand_webp/mercedes/a_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>A CLASS</h4>
@@ -457,7 +457,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-amg_gt" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-amg_gt" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES AMG GT 2014 - н.в." class="lazy" data-src="images/brand_webp/mercedes/amg_gt.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>AMG GT</h4>
@@ -467,7 +467,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-amg_gt_4" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-amg_gt_4" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES AMG GT 4-Door 2018 - н.в." class="lazy" data-src="images/brand_webp/mercedes/amg_gt_4.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>AMG GT 4-Door</h4>
@@ -477,7 +477,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-b_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-b_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES B CLASS 2008 - н.в." class="lazy" data-src="images/brand_webp/mercedes/b_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>B CLASS</h4>
@@ -487,7 +487,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-c_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-c_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES C CLASS 2006 - 2021" class="lazy" data-src="images/brand_webp/mercedes/b_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>C CLASS</h4>
@@ -497,7 +497,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-citan" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-citan" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES BENZ CITAN 2012 - н.в." class="lazy" data-src="images/brand_webp/mercedes/citan.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>CITAN</h4>
@@ -507,7 +507,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-cl_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-cl_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES CL CLASS 2006 - 2014" class="lazy" data-src="images/brand_webp/mercedes/cl_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>CL CLASS</h4>
@@ -517,7 +517,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-cla_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-cla_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES CLA CLASS 2013 - 2014" class="lazy" data-src="images/brand_webp/mercedes/cla_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>CLA CLASS</h4>
@@ -527,7 +527,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-clc_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-clc_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES CLC CLASS 2008 - 2011" class="lazy" data-src="images/brand_webp/mercedes/clc_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>CLC CLASS</h4>
@@ -537,7 +537,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-clk_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-clk_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES CLK CLASS 2005 - 2010" class="lazy" data-src="images/brand_webp/mercedes/clk_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>CLK CLASS</h4>
@@ -547,7 +547,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-cls_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-cls_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES CLS CLASS 2008 - н.в." class="lazy" data-src="images/brand_webp/mercedes/cls_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>CLS CLASS</h4>
@@ -557,7 +557,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-e_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-e_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES E CLASS 2006 - н.в." class="lazy" data-src="images/brand_webp/mercedes/e_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>E CLASS</h4>
@@ -567,7 +567,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-g_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-g_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES G CLASS 2008 - н.в." class="lazy" data-src="images/brand_webp/mercedes/g_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>G CLASS</h4>
@@ -577,7 +577,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-gl_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-gl_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES GL CLASS 2009 - 2016" class="lazy" data-src="images/brand_webp/mercedes/gl_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GL CLASS</h4>
@@ -587,7 +587,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-gla_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-gla_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES GLA CLASS 2014 - н.в." class="lazy" data-src="images/brand_webp/mercedes/gla_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GLA CLASS</h4>
@@ -597,7 +597,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-glb_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-glb_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES GLB CLASS 2020 - н.в." class="lazy" data-src="images/brand_webp/mercedes/glb_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GLB CLASS</h4>
@@ -607,7 +607,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-glc_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-glc_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES GLC CLASS 2015 - н.в." class="lazy" data-src="images/brand_webp/mercedes/glc_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GLC CLASS</h4>
@@ -617,7 +617,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-glc_coupe" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-glc_coupe" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES GLC COUPE 2016 - н.в." class="lazy" data-src="images/brand_webp/mercedes/glc_coupe.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GLC COUPE</h4>
@@ -627,7 +627,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-gle_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-gle_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES GLE CLASS 2015 - н.в." class="lazy" data-src="images/brand_webp/mercedes/gle_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GLE CLASS</h4>
@@ -637,7 +637,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-gle_coupe" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-gle_coupe" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES GLE COUPE 2015 - н.в." class="lazy" data-src="images/brand_webp/mercedes/gle_coupe.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GLE COUPE</h4>
@@ -647,7 +647,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-glk_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-glk_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES GLK CLASS 2008 - 2015" class="lazy" data-src="images/brand_webp/mercedes/glk_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GLK CLASS</h4>
@@ -657,7 +657,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-gls_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-gls_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES GLS CLASS 2015 - н.в." class="lazy" data-src="images/brand_webp/mercedes/gls_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GLS CLASS</h4>
@@ -667,7 +667,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-maybach" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-maybach" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES MAYBACH 2016 - н.в." class="lazy" data-src="images/brand_webp/mercedes/maybach.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>MAYBACH</h4>
@@ -677,7 +677,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-m_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-m_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES M CLASS 2008 - 2015" class="lazy" data-src="images/brand_webp/mercedes/m_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>M CLASS</h4>
@@ -687,7 +687,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-r_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-r_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES R CLASS 2006 - 2013" class="lazy" data-src="images/brand_webp/mercedes/r_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>R CLASS</h4>
@@ -697,7 +697,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-s_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-s_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES S CLASS 2006 - н.в." class="lazy" data-src="images/brand_webp/mercedes/s_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>S CLASS</h4>
@@ -707,7 +707,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-sl_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-sl_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES SL CLASS 2008 - 2020" class="lazy" data-src="images/brand_webp/mercedes/sl_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>SL CLASS</h4>
@@ -717,7 +717,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-slc_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-slc_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES SLC CLASS 2016 - н.в." class="lazy" data-src="images/brand_webp/mercedes/slc_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>SLC CLASS</h4>
@@ -727,7 +727,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-slk_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-slk_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES SLK CLASS 2011 - 2016" class="lazy" data-src="images/brand_webp/mercedes/slk_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>SLK CLASS</h4>
@@ -737,7 +737,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-sls_amg" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-sls_amg" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES SLS AMG 2010 - 2014" class="lazy" data-src="images/brand_webp/mercedes/sls_amg.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>SLS AMG</h4>
@@ -747,7 +747,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-sprinter" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-sprinter" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES SPRINTER 2015 - н.в." class="lazy" data-src="images/brand_webp/mercedes/sprinter.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>SPRINTER</h4>
@@ -757,7 +757,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-v_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-v_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES V CLASS 2014 - н.в." class="lazy" data-src="images/brand_webp/mercedes/v_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>V CLASS</h4>
@@ -767,7 +767,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-viano" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-viano" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES VIANO 2010 - 2014" class="lazy" data-src="images/brand_webp/mercedes/viano.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>VIANO</h4>
@@ -777,7 +777,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-vito" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-vito" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES VITO 2014 - н.в." class="lazy" data-src="images/brand_webp/mercedes/vito.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>VITO</h4>
@@ -787,7 +787,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#mercedes-x_class" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mercedes-x_class" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MERCEDES X CLASS 2017 - н.в." class="lazy" data-src="images/brand_webp/mercedes/x_class.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>X CLASS</h4>
@@ -813,7 +813,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-a1" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-a1" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi A1 2010 - н.в." class="lazy" data-src="images/brand_webp/audi/a1.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi A1</h4>
@@ -823,7 +823,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-a3" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-a3" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi A3 2008 - н.в." class="lazy" data-src="images/brand_webp/audi/a3.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi A3</h4>
@@ -833,7 +833,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-a4" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-a4" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi A4 2007 - н.в." class="lazy" data-src="images/brand_webp/audi/a4.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi A4</h4>
@@ -843,7 +843,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-a5" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-a5" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi A5 2007 - н.в." class="lazy" data-src="images/brand_webp/audi/a5.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi A5</h4>
@@ -853,7 +853,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-a6" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-a6" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi A6 2008 - н.в." class="lazy" data-src="images/brand_webp/audi/a6.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi A6</h4>
@@ -863,7 +863,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-a7" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-a7" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi A7 2010 - н.в." class="lazy" data-src="images/brand_webp/audi/a7.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi A7</h4>
@@ -873,7 +873,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-a8" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-a8" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi A8 2007 - н.в." class="lazy" data-src="images/brand_webp/audi/a8.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi A8</h4>
@@ -883,7 +883,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-q2" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-q2" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi Q2 2016 - н.в." class="lazy" data-src="images/brand_webp/audi/q2.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi Q2</h4>
@@ -893,7 +893,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-q3" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-q3" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi Q3 2011 - н.в." class="lazy" data-src="images/brand_webp/audi/q3.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi Q3</h4>
@@ -903,7 +903,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-q5" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-q5" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi Q5 2008 - н.в." class="lazy" data-src="images/brand_webp/audi/q5.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi Q5</h4>
@@ -913,7 +913,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-q7" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-q7" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi Q7 2009 - н.в." class="lazy" data-src="images/brand_webp/audi/q7.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi Q7</h4>
@@ -923,7 +923,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-q8" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-q8" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi Q8 2018 - н.в." class="lazy" data-src="images/brand_webp/audi/q8.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi Q8</h4>
@@ -933,7 +933,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-r8" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-r8" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi R8 2017 - н.в." class="lazy" data-src="images/brand_webp/audi/r8.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi R8</h4>
@@ -943,7 +943,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-rs3" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-rs3" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi RS3 2011 - н.в." class="lazy" data-src="images/brand_webp/audi/rs3.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi RS3</h4>
@@ -953,7 +953,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-rs_q3" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-rs_q3" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi RS Q3 2013 - н.в." class="lazy" data-src="images/brand_webp/audi/rs_q3.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi RS Q3</h4>
@@ -963,7 +963,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-rs4" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-rs4" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi RS4 2012 - н.в." class="lazy" data-src="images/brand_webp/audi/rs4.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi RS4</h4>
@@ -973,7 +973,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-rs5" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-rs5" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi RS5 2010 - н.в." class="lazy" data-src="images/brand_webp/audi/rs5.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi RS5</h4>
@@ -983,7 +983,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-rs6" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-rs6" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi RS6 2007 - н.в." class="lazy" data-src="images/brand_webp/audi/rs6.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi RS6</h4>
@@ -993,7 +993,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-rs7" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-rs7" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi RS7 2013 - н.в." class="lazy" data-src="images/brand_webp/audi/rs7.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi RS7</h4>
@@ -1003,7 +1003,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-rs_q8" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-rs_q8" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi RS Q8 2020 - н.в." class="lazy" data-src="images/brand_webp/audi/rs_q3.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi RS Q8</h4>
@@ -1013,7 +1013,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-s1" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-s1" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi S1 2014 - н.в." class="lazy" data-src="images/brand_webp/audi/a1.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi S1</h4>
@@ -1023,7 +1023,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-s3" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-s3" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi S3 2008 - н.в." class="lazy" data-src="images/brand_webp/audi/a3.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi S3</h4>
@@ -1033,7 +1033,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-s4" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-s4" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi S4 2008 - н.в." class="lazy" data-src="images/brand_webp/audi/s4.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi S4</h4>
@@ -1043,7 +1043,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-s5" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-s5" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi S5 2007 - н.в." class="lazy" data-src="images/brand_webp/audi/s5.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi S5</h4>
@@ -1053,7 +1053,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-s6" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-s6" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi S6 2008 - н.в." class="lazy" data-src="images/brand_webp/audi/a6.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi S6</h4>
@@ -1063,7 +1063,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-s7" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-s7" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi S7 2012 - н.в." class="lazy" data-src="images/brand_webp/audi/a7.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi S7</h4>
@@ -1073,7 +1073,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-s8" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-s8" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi S8 2007 - н.в." class="lazy" data-src="images/brand_webp/audi/s8.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi S8</h4>
@@ -1083,7 +1083,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-sq2" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-sq2" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi SQ2 2019 - н.в." class="lazy" data-src="images/brand_webp/audi/sq2.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi SQ2</h4>
@@ -1093,7 +1093,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-sq5" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-sq5" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi SQ5 2013 - н.в." class="lazy" data-src="images/brand_webp/audi/sq5.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi SQ5</h4>
@@ -1103,7 +1103,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-sq7" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-sq7" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi SQ7 2016 - н.в." class="lazy" data-src="images/brand_webp/audi/sq7.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi SQ7</h4>
@@ -1113,7 +1113,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-sq8" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-sq8" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi SQ8 2016 - н.в." class="lazy" data-src="images/brand_webp/audi/sq8.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi SQ8</h4>
@@ -1123,7 +1123,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-tt" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-tt" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi TT 2010 - н.в." class="lazy" data-src="images/brand_webp/audi/tt.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi TT</h4>
@@ -1133,7 +1133,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-tts" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-tts" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi TT S 2010 - н.в." class="lazy" data-src="images/brand_webp/audi/tt.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi TT S</h4>
@@ -1143,7 +1143,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#audi-ttrs" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#audi-ttrs" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Audi TT RS 2009 - н.в." class="lazy" data-src="images/brand_webp/audi/ttrs.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Audi TT RS</h4>
@@ -1169,7 +1169,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#toyota-300" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#toyota-300" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND CRUISER 300" class="lazy" data-src="images/brand_webp/toyota/300.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>LAND CRUISER 300</h4>
@@ -1179,7 +1179,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#toyota-200" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#toyota-200" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND CRUISER 200" class="lazy" data-src="images/brand_webp/toyota/200.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>LAND CRUISER 200</h4>
@@ -1189,7 +1189,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#toyota-prado" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#toyota-prado" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND CRUISER PRADO" class="lazy" data-src="images/brand_webp/toyota/prado.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>PRADO</h4>
@@ -1199,7 +1199,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#toyota-rav4" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#toyota-rav4" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="RAV 4" class="lazy" data-src="images/brand_webp/toyota/rav4.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>RAV 4</h4>
@@ -1209,7 +1209,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#toyota-highlander" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#toyota-highlander" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="HIGHLANDER" class="lazy" data-src="images/brand_webp/toyota/highlander.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>HIGHLANDER</h4>
@@ -1219,7 +1219,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#toyota-camry" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#toyota-camry" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="CAMRY" class="lazy" data-src="images/brand_webp/toyota/camry.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>CAMRY</h4>
@@ -1229,7 +1229,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#toyota-hilux" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#toyota-hilux" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="HILUX" class="lazy" data-src="images/brand_webp/toyota/hilux.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>HILUX</h4>
@@ -1239,7 +1239,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#toyota-fortuner" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#toyota-fortuner" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="FORTUNER" class="lazy" data-src="images/brand_webp/toyota/fortuner.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>FORTUNER</h4>
@@ -1249,7 +1249,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#toyota-tundra" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#toyota-tundra" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="TUNDRA" class="lazy" data-src="images/brand_webp/toyota/tundra.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>TUNDRA</h4>
@@ -1275,7 +1275,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#land_rover-defender" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#land_rover-defender" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND ROVER DEFENDER 2007 - 2016" class="lazy" data-src="images/brand_webp/land_rover/defender.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>DEFENDER</h4>
@@ -1285,7 +1285,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#land_rover-discovery" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#land_rover-discovery" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND ROVER DISCOVERY 2009 - н.в." class="lazy" data-src="images/brand_webp/land_rover/discovery.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>DISCOVERY</h4>
@@ -1295,7 +1295,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#land_rover-discovery_sport" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#land_rover-discovery_sport" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND ROVER DISCOVERY SPORT 2014 - н.в." class="lazy" data-src="images/brand_webp/land_rover/discovery_sport.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>DISCOVERY SPORT</h4>
@@ -1305,7 +1305,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#land_rover-freelander" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#land_rover-freelander" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND ROVER FREELANDER 2010 - 2014" class="lazy" data-src="images/brand_webp/land_rover/freelander.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>FREELANDER</h4>
@@ -1315,7 +1315,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#land_rover-range_rover" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#land_rover-range_rover" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND ROVER RANGE ROVER 2012 - н.в." class="lazy" data-src="images/brand_webp/land_rover/range_rover.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>RANGE ROVER</h4>
@@ -1325,7 +1325,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#land_rover-range_rover_evoque" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#land_rover-range_rover_evoque" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND ROVER RANGE ROVER EVOQUE 2011 - н.в." class="lazy" data-src="images/brand_webp/land_rover/range_rover_evoque.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>RANGE ROVER EVOQUE</h4>
@@ -1335,7 +1335,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#land_rover-range_rover_velar" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#land_rover-range_rover_velar" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND ROVER RANGE ROVER VELAR 2017 - н.в." class="lazy" data-src="images/brand_webp/land_rover/range_rover_velar.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>RANGE ROVER VELAR</h4>
@@ -1345,7 +1345,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#land_rover-range_rover_sport" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#land_rover-range_rover_sport" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LAND ROVER RANGE ROVER SPORT 2009 - н.в." class="lazy" data-src="images/brand_webp/land_rover/range_rover_sport.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>RANGE ROVER SPORT</h4>
@@ -1371,7 +1371,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#porshe-911" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#porshe-911" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="PORSHE 911 2008 - н.в." class="lazy" data-src="images/brand_webp/porshe/911.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>911</h4>
@@ -1381,7 +1381,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#porshe-911_gt2" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#porshe-911_gt2" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="PORSHE 911 GT2 2007 - н.в." class="lazy" data-src="images/brand_webp/porshe/911_gt2.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>911 GT2</h4>
@@ -1391,7 +1391,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#porshe-911_gt3" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#porshe-911_gt3" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="PORSHE 911 GT3 2009 - н.в." class="lazy" data-src="images/brand_webp/porshe/911_gt3.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>911 GT3</h4>
@@ -1401,7 +1401,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#porshe-boxter" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#porshe-boxter" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="PORSHE BOXTER 2009 - н.в." class="lazy" data-src="images/brand_webp/porshe/boxter.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>BOXTER</h4>
@@ -1411,7 +1411,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#porshe-cayenne" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#porshe-cayenne" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="PORSHE Cayenne 2007 - н.в." class="lazy" data-src="images/brand_webp/porshe/cayenne.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Cayenne</h4>
@@ -1421,7 +1421,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#porshe-cayman" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#porshe-cayman" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="PORSHE Cayman 2009 - н.в." class="lazy" data-src="images/brand_webp/porshe/cayman.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Cayman</h4>
@@ -1431,7 +1431,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#porshe-macan" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#porshe-macan" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="PORSHE Macan 2014 - н.в." class="lazy" data-src="images/brand_webp/porshe/macan.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Macan</h4>
@@ -1441,7 +1441,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#porshe-panamera" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#porshe-panamera" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="PORSHE PANAMERA 2009 - н.в." class="lazy" data-src="images/brand_webp/porshe/panamera.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>PANAMERA</h4>
@@ -1467,7 +1467,7 @@
     <div class="container text-center">
     <div class="row row-cols-md-3 content container">
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#lexus-lx450" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#lexus-lx450" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="LX450" class="lazy" data-src="images/brand_webp/lexus/lx450.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>LX450</h4>
@@ -1477,7 +1477,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#lexus-rx200t" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#lexus-rx200t" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="RX200t" class="lazy" data-src="images/brand_webp/lexus/rx200t.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>RX200t</h4>
@@ -1487,7 +1487,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#lexus-nx200t" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#lexus-nx200t" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="NX200t" class="lazy" data-src="images/brand_webp/lexus/nx200t.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>NX200t</h4>
@@ -1513,7 +1513,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#skoda-fabia" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#skoda-fabia" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="SKODA FABIA 2007 - н.в." class="lazy" data-src="images/brand_webp/skoda/fabia.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>FABIA</h4>
@@ -1523,7 +1523,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#skoda-karoq" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#skoda-karoq" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="SKODA KAROQ 2017 - н.в." class="lazy" data-src="images/brand_webp/skoda/karoq.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>KAROQ</h4>
@@ -1533,7 +1533,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#skoda-kodiaq" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#skoda-kodiaq" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="SKODA KODIAQ 2016 - н.в." class="lazy" data-src="images/brand_webp/skoda/kodiaq.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>KODIAQ</h4>
@@ -1543,7 +1543,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#skoda-octavia" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#skoda-octavia" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="SKODA OCTAVIA 2008 - н.в." class="lazy" data-src="images/brand_webp/skoda/octavia.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>OCTAVIA</h4>
@@ -1553,7 +1553,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#skoda-octavia_rs" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#skoda-octavia_rs" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="SKODA OCTAVIA RS 2008 - н.в." class="lazy" data-src="images/brand_webp/skoda/octavia_rs.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>OCTAVIA RS</h4>
@@ -1563,7 +1563,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#skoda-rapid" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#skoda-rapid" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="SKODA RAPID 2012 - н.в." class="lazy" data-src="images/brand_webp/skoda/rapid.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>RAPID</h4>
@@ -1573,7 +1573,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#skoda-roomster" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#skoda-roomster" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="SKODA ROOMSTER 2006 - 2015" class="lazy" data-src="images/brand_webp/skoda/roomster.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>ROOMSTER</h4>
@@ -1583,7 +1583,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#skoda-superb" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#skoda-superb" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="SKODA SUPERB 2008 - н.в." class="lazy" data-src="images/brand_webp/skoda/superb.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>SUPERB</h4>
@@ -1593,7 +1593,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#skoda-yeti" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#skoda-yeti" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="SKODA YETI 2009 - н.в." class="lazy" data-src="images/brand_webp/skoda/yeti.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>YETI</h4>
@@ -1619,7 +1619,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-c30" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-c30" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo C30 2010 - 2013" class="lazy" data-src="images/brand_webp/volvo/c30.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo C30</h4>
@@ -1629,7 +1629,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-c70" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-c70" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo C70 2009 - 2013" class="lazy" data-src="images/brand_webp/volvo/c70.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo C70</h4>
@@ -1639,7 +1639,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-s40" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-s40" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo S40 2007 - 2012" class="lazy" data-src="images/brand_webp/volvo/s40.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo S40</h4>
@@ -1649,7 +1649,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-s60" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-s60" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo S60 2010 - н.в." class="lazy" data-src="images/brand_webp/volvo/s60.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo S60</h4>
@@ -1659,7 +1659,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-s80" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-s80" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo S80 2009 - 2016" class="lazy" data-src="images/brand_webp/volvo/s80.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo S80</h4>
@@ -1669,7 +1669,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-s90" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-s90" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo S90 2016 - н.в." class="lazy" data-src="images/brand_webp/volvo/s90.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo S90</h4>
@@ -1679,7 +1679,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-v40" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-v40" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo V40 2012 - н.в." class="lazy" data-src="images/brand_webp/volvo/v40.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo V40</h4>
@@ -1689,7 +1689,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-v60" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-v60" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo V60 2013 - н.в." class="lazy" data-src="images/brand_webp/volvo/v60.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo V60</h4>
@@ -1699,7 +1699,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-v70" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-v70" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo V70 2007 - 2016" class="lazy" data-src="images/brand_webp/volvo/v70.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo V70</h4>
@@ -1709,7 +1709,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-v90" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-v90" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo V90 2016 - н.в." class="lazy" data-src="images/brand_webp/volvo/v90.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo V90</h4>
@@ -1719,7 +1719,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-xc60" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-xc60" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo XC60 2013 - н.в." class="lazy" data-src="images/brand_webp/volvo/xc60.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo XC60</h4>
@@ -1729,7 +1729,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-xc70" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-xc70" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo XC70 2007 - 2016" class="lazy" data-src="images/brand_webp/volvo/xc70.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo XC70</h4>
@@ -1739,7 +1739,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#volvo-xc90" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volvo-xc90" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="Volvo XC70 2014 - н.в." class="lazy" data-src="images/brand_webp/volvo/xc90.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>Volvo XC90</h4>
@@ -1765,7 +1765,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#mitsubishi-asx" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mitsubishi-asx" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MITSUBISHI ASX 2010 - н.в." class="lazy" data-src="images/brand_webp/mitsubishi/asx.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>ASX</h4>
@@ -1775,7 +1775,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#mitsubishi-grandis" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mitsubishi-grandis" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MITSUBISHI GRANDIS 2003 - 2011" class="lazy" data-src="images/brand_webp/mitsubishi/grandis.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GRANDIS</h4>
@@ -1785,7 +1785,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#mitsubishi-l200" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mitsubishi-l200" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MITSUBISHI L200 2006 - н.в." class="lazy" data-src="images/brand_webp/mitsubishi/l200.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>L200</h4>
@@ -1795,7 +1795,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#mitsubishi-lancer" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mitsubishi-lancer" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MITSUBISHI LANCER 2007 - 2015" class="lazy" data-src="images/brand_webp/mitsubishi/lancer.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>LANCER</h4>
@@ -1805,7 +1805,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#mitsubishi-outlander" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mitsubishi-outlander" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MITSUBISHI OUTLANDER 2006 - н.в." class="lazy" data-src="images/brand_webp/mitsubishi/outlander.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>OUTLANDER</h4>
@@ -1815,7 +1815,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#mitsubishi-pajero" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mitsubishi-pajero" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MITSUBISHI PAJERO 2006 - н.в." class="lazy" data-src="images/brand_webp/mitsubishi/pajero.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>PAJERO</h4>
@@ -1825,7 +1825,7 @@
     </a></div>
     </div>
     <div class="col-sm p-4 png">
-    <div class="hover-text-one"><a data-bs-target="#mitsubishi-pajero_sport" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#mitsubishi-pajero_sport" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="MITSUBISHI PAJERO SPORT 2008 - н.в." class="lazy" data-src="images/brand_webp/mitsubishi/pajero_sport.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>PAJERO SPORT</h4>
@@ -1851,7 +1851,7 @@
     <div class="container text-center">
     <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-4 content container">
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-amarok" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-amarok" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN AMAROK 2010 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/amarok.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>AMAROK</h4>
@@ -1861,7 +1861,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-arteon" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-arteon" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN ARTEON 2017 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/arteon.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>ARTEON</h4>
@@ -1871,7 +1871,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-atlas_teramont" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-atlas_teramont" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN ATLAS / TERAMONT 2017 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/atlas_teramont.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>ATLAS / TERAMONT</h4>
@@ -1881,7 +1881,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-beetle" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-beetle" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN BEETLE 2011 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/beetle.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>BEETLE</h4>
@@ -1891,7 +1891,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-caddy" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-caddy" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN CADDY 2010 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/caddy.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>CADDY</h4>
@@ -1901,7 +1901,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-caravelle" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-caravelle" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN CARAVELLE 2009 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/caravelle.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>CARAVELLE</h4>
@@ -1911,7 +1911,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-eos" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-eos" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN EOS 2006 - 2015" class="lazy" data-src="images/brand_webp/volkswagen/eos.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>EOS</h4>
@@ -1921,7 +1921,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-golf" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-golf" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN GOLF 2008 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/golf.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GOLF</h4>
@@ -1931,7 +1931,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-golf_gti" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-golf_gti" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN GOLF GTI 2008 - 2020" class="lazy" data-src="images/brand_webp/volkswagen/golf_gti.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GOLF GTI</h4>
@@ -1941,7 +1941,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-golf_r" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-golf_r" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN GOLF R 2009 - 2020" class="lazy" data-src="images/brand_webp/volkswagen/golf_r.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>GOLF R</h4>
@@ -1951,7 +1951,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-jetta" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-jetta" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN JETTA 2005 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/jetta.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>JETTA</h4>
@@ -1961,7 +1961,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-multivan_tranporter" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-multivan_tranporter" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN MULTIVAN / TRANSPORTER 2009 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/multivan_tranporter.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>MULTIVAN / TRANSPORTER</h4>
@@ -1971,7 +1971,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-passat" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-passat" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN PASSAT 2005 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/passat.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>PASSAT</h4>
@@ -1981,7 +1981,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-passat_cc" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-passat_cc" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN PASSAT CC 2008 - 2017" class="lazy" data-src="images/brand_webp/volkswagen/passat_cc.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>PASSAT CC</h4>
@@ -1991,7 +1991,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-phaeton" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-phaeton" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN PHAETON 2010 - 2016" class="lazy" data-src="images/brand_webp/volkswagen/phaeton.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>PHAETON</h4>
@@ -2001,7 +2001,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-polo" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-polo" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN POLO 2009 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/polo.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>POLO</h4>
@@ -2011,7 +2011,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-polo_gti" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-polo_gti" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN POLO GTI 2008 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/polo_gti.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>POLO GTI</h4>
@@ -2021,7 +2021,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-polo_r_wrc" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-polo_r_wrc" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN POLO R WRC 2013 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/polo_r_wrc.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>POLO R WRC</h4>
@@ -2031,7 +2031,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-scirocco" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-scirocco" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN SCIROCCO 2008 - 2017" class="lazy" data-src="images/brand_webp/volkswagen/scirocco.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>SCIROCCO</h4>
@@ -2041,7 +2041,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-scirocco_r" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-scirocco_r" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN SCIROCCO R 2009 - 2017" class="lazy" data-src="images/brand_webp/volkswagen/scirocco_r.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>SCIROCCO R</h4>
@@ -2051,7 +2051,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-sharan" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-sharan" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN SHARAN 2010 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/sharan.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>SHARAN</h4>
@@ -2061,7 +2061,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-t_cross" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-t_cross" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN T-CROSS 2018 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/t_cross.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>T-CROSS</h4>
@@ -2071,7 +2071,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-t_roc" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-t_roc" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN T-ROC 2018 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/t_roc.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>T-ROC</h4>
@@ -2081,7 +2081,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-tiguan" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-tiguan" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN TIGUAN 2007 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/tiguan.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>TIGUAN</h4>
@@ -2091,7 +2091,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-touareg" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-touareg" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN TOUAREG 2007 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/touareg.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>TOUAREG</h4>
@@ -2101,7 +2101,7 @@
     </a></div>
     </div>
     <div class="col-sm png">
-    <div class="hover-text-one"><a data-bs-target="#volkswagen-touran" data-bs-toggle="modal" href="">
+    <div class="hover-text-one"><a data-bs-target="#volkswagen-touran" data-bs-toggle="modal">
     <figure class="effect-text-four"><img alt="VOLKSWAGEN TOURAN 2010 - н.в." class="lazy" data-src="images/brand_webp/volkswagen/touran.webp" style="width:100%; height:100%"/>
     <figcaption>
     <h4>TOURAN</h4>
